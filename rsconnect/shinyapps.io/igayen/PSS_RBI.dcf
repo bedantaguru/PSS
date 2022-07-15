@@ -1,0 +1,13 @@
+name: PSS_RBI
+title: PSS_RBI
+username:
+account: igayen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6636493
+bundleId: 6097654
+url: https://igayen.shinyapps.io/PSS_RBI/
+when: 1657794622.3897
+lastSyncTime: 1657794622.38971
+asMultiple: FALSE
+asStatic: FALSE
